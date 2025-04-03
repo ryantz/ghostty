@@ -1,0 +1,10 @@
+gtk-titlebar = false
+
+theme = ayu
+
+font-family = Fixedsys Excelsior
+font-size = 17
+font-feature = -liga
+
+cursor-style = block
+cursor-color = "#ff0000"
