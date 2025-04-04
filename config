@@ -2,9 +2,18 @@ gtk-titlebar = false
 
 theme = ayu
 
-font-family = Fixedsys Excelsior
-font-size = 17
-font-feature = -liga
-
 cursor-style = block
 cursor-color = "#ff0000"
+
+window-padding-x = 30
+window-padding-y = 30
+
+font-family = IosevkaTerm NFM
+
+font-size = 13
+font-feature = -calt, -liga, -dlig
+
+font-style-bold = false
+font-style-italic = false
+font-style-bold-italic = false
+
